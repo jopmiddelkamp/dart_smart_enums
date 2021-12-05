@@ -1,7 +1,7 @@
 name: smart_enums
 description: A starting point for Dart libraries or applications.
 repository: https://github.com/jopmiddelkamp/dart_smart_enums
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=2.14.4 <3.0.0'
