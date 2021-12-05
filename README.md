@@ -51,4 +51,4 @@ class Framework extends SmartEnum<Framework> {
 
 ## Note
 
-Inspired by (Steve Smith)[https://github.com/ardalis]'s smart enum .NET (library)[https://github.com/ardalis/SmartEnum].
+Inspired by [Steve Smith](https://github.com/ardalis)'s smart enum .NET [library](https://github.com/ardalis/SmartEnum).
