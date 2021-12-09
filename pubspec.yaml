@@ -4,7 +4,7 @@ repository: https://github.com/jopmiddelkamp/dart_smart_enums
 version: 1.0.2
 
 environment:
-  sdk: '>=2.14.4 <3.0.0'
+  sdk: '>=2.14.0 <3.0.0'
 
 dev_dependencies:
   lints: ^1.0.0
