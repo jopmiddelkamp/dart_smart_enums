@@ -1,7 +1,7 @@
 # Smart Enums
 ## Author: [Jop Middelkamp](https://github.com/jopmiddelkamp)
 
-A package with a solution to use create smart enums.
+A package that can help you create 'smarter' enums that could be extended with some domain logic.
 
 ## Usage
 
