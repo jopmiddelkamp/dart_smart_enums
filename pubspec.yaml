@@ -1,7 +1,7 @@
 name: smart_enums
 description: A package that can help you create 'smarter' enums that could be extended with some domain logic.
 repository: https://github.com/jopmiddelkamp/dart_smart_enums
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=2.14.0 <3.0.0'

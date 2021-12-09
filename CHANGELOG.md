@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Updated the example app.
+
 ## 1.0.3
 
 * Updated the Dart SDK version.
